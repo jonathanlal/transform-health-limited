@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletRequest;
 
 import com.google.apphosting.utils.remoteapi.RemoteApiPb.Request;
 
-@WebFilter({ "/about/", "/about", "/inspiration/", "/inspiration", "/products/*", "/products", "/services/*", "/services", "/contact/", "/contact", "/disclaimer", "/disclaimer/", "/privacy-policy", "/privacy-policy/", "/terms", "/terms/", "/cookie-policy", "/cookie-policy/", "/bootcamp/","/bootcamp", "/*" })
+@WebFilter({ "/about/", "/about", "/inspiration/", "/inspiration", "/products/*", "/products", "/services/*", "/services", "/contact/", "/contact", "/disclaimer", "/disclaimer/", "/privacy-policy", "/privacy-policy/", "/terms", "/terms/", "/cookie-policy", "/cookie-policy/", "/bootcamp/","/bootcamp", "/home.jsp", "/*" })
 public class MainFilter implements Filter {
 
     public MainFilter() {
@@ -31,12 +31,15 @@ public class MainFilter implements Filter {
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
 		
 			String requri = ((HttpServletRequest) request).getRequestURI();
-//			System.out.println("REQUEST: "+requri);
+
 		 	String page = "";
 		 	boolean continueChain = false;
 		 
 	    	if(requri.equals("/"))
     			page = "index.jsp";
+	    	
+	    	else if(requri.equals("/test/") || requri.equals("/test"))
+    			page = "home.jsp";
 		 	
 	    	else if(requri.equals("/error/") || requri.equals("/error"))
     			page = "error.jsp";

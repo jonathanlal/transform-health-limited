@@ -26,6 +26,17 @@ public class GetMainPage extends HttpServlet {
 //			response.sendRedirect("/error/");
 		}
 		
+		
+		
+		if(page != null && page.equals("home.jsp")) {
+		
+			String v = request.getParameter("v");
+			request.setAttribute("version", v);
+		}
+		
+		
+		
+		
 		RequestDispatcher rd = request.getRequestDispatcher(page);
 		rd.forward(request, response);
 		
