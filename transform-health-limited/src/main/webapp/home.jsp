@@ -155,9 +155,9 @@ document.body.style.backgroundColor = "#D6FAF1";
 <div class="card card-body">
     <div class="row">
         <div class="col-sm-12 d-table text-center">
-<!--         <div style="border-radius: 50%;width:250px;height:250px;margin:0 auto;box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);background-color: white;"> -->
+
  <img src="../../img/stacked-mint.png" style="width: 200px;margin-bottom:15px;" class="mt-4">
-<!-- 		</div> -->
+
  <hr>
      <div class="row">
  			<div class="col-6 text-center">
