@@ -75,8 +75,8 @@ that will change your life!!</h5>
 <!-- <div class="col"> -->
 
   <div class="card" data-aos="fade-right" data-aos-duration="1100">
-  <img src="https://storage.googleapis.com/transform-health-limited.appspot.com/bootcamp.JPG" class="card-img-top">
-  
+  <img src="https://storage.googleapis.com/transform-health-limited.appspot.com/bootcamp.JPG" class="card-img-top" style="max-height: 350px!important;">
+<!--   <img src="../img/bootcamp-n.jpg" class="img-fluid d-block mx-auto rounded-top"> -->
     <div class="card-body">
       <h4 class="card-title-custom">6 night residential Boot Camp</h4>
      <p class="card-text deep-blue">Just minutes from the beach, our luxury villa with its
@@ -94,7 +94,7 @@ to ensure you’re on track!
   
 
   <div class="card mb-0" data-aos="fade-left" data-aos-duration="1100">
-  <img src="https://storage.googleapis.com/transform-health-limited.appspot.com/bootcamp2.JPG" class="card-img-top">
+  <img src="https://storage.googleapis.com/transform-health-limited.appspot.com/bootcamp2.JPG" class="card-img-top" style="max-height: 350px!important;">
   
     <div class="card-body">
       <h4 class="card-title text-center font-weight-bold orange">Patented Technology Exclusive to Marbella</h4>

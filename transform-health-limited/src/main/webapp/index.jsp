@@ -51,12 +51,11 @@ color:#00595E !important;
 
 
 
-<div class="banner-slideshow"  data-aos="fade-left">
-  <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-5.jpg" alt="First slide"></div>
-  <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-3.jpg" alt="First slide"></div>
-      <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-1.jpg" alt="First slide"></div>
-</div>
-
+<!-- <div class="banner-slideshow"  data-aos="fade-left"> -->
+<!--   <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-5.jpg" alt="First slide"></div> -->
+<!--   <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-3.jpg" alt="First slide"></div> -->
+<!--       <div><img class="d-block w-100 rounded-top" src="img/carousel/carousel-1.jpg" alt="First slide"></div> -->
+<!-- </div> -->
 
 
 
@@ -256,7 +255,7 @@ For some others mobility issues prevent them from running at all and the pod sup
 
 <div><div class="card bg-faded bg-light">
 <div class="card-block"><p class="m-0 p-3">
-"Charles is also blind and was told by his medical supervisors that he cannot walk for longer than 15 minutes and would require 10 minutes resting in between, which would make trips outside his home problematic... After 12 sessions with us he repeatedly ran with vacuum and incline for 30 minutes …His parents, teachers and mentors have challenged the report due to his improvements."
+"Charles is also blind and was told by his medical supervisors that he cannot walk for longer than 15 minutes and would require 10 minutes resting in between, which would make trips outside his home problematic... After 12 sessions with us he repeatedly ran with vacuum and incline for 30 minutes... His parents, teachers and mentors have challenged the report due to his improvements."
 </p></div>
 </div></div>
 
