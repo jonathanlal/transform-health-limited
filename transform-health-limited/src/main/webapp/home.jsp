@@ -61,6 +61,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.6/css/mdb.min.css" rel="stylesheet">
 
 
+
 <%--  <c:import url="/includes/bootstrap4_css.html" /> --%>
 <%--  <c:import url="/includes/fontawesome_css.html" /> --%>
 <%-- <c:import url="/includes/jquery_js.html"/> --%>
@@ -206,7 +207,7 @@ document.body.style.backgroundColor = "#D6FAF1";
 
              
              		
- 			<div class="card"  style="background-color:#FaFaFa;">
+ 			<div class="card mb-0"  style="background-color:#FaFaFa;">
  			<img class="card-img-top" src="../img/bootcamp-n.jpg" >
  			           <div class="card-footer" style="background-color: inherit;">
  		<span>Marbella <br>Bootcamp</span>
@@ -241,7 +242,7 @@ padding: 0 !important;
 
 </style>
 
-<div class="container mt-3" style="max-width:27rem;">
+<div class="container my-3" style="max-width:27rem;">
 <div class="card card-body">
     <div class="row">
         <div class="col-sm-12 d-table text-center">
@@ -254,7 +255,7 @@ padding: 0 !important;
  			<div class="card"  style="background-color:#FaFaFa;">
  			<img class="card-img-top" src="../img/bootcamp-n2.jpg" >
  			   <div class="card-footer" style="background-color: inherit;">
- <a type="button" href="../../products/" class="btn btn-primary btn-md btn-block">View <br>products</a>
+ <a type="button" href="../../products/" class="btn btn-primary btn-lg btn-block">View <br>products</a>
  		</div>
  			</div>
  			
@@ -265,10 +266,10 @@ padding: 0 !important;
 
              
              		
- 			<div class="card"  style="background-color:#FaFaFa;">
+ 			<div class="card mb-0"  style="background-color:#FaFaFa;">
  			<img class="card-img-top" src="../img/bootcamp-n.jpg" >
  			           <div class="card-footer" style="background-color: inherit;">
- 		 <a type="button" href="../../bootcamp/" class="btn btn-primary btn-md btn-block">Marbella  <br>Bootcamp</a>
+ 		 <a type="button" href="../../bootcamp/" class="btn btn-primary btn-lg btn-block">Marbella  <br>Bootcamp</a>
  			</div>
  			</div>
              
@@ -283,7 +284,7 @@ padding: 0 !important;
 </div>
 </div>
 </c:if>
-
+<br>
 
 
 </body>

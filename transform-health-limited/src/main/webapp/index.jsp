@@ -44,6 +44,7 @@ color:#00595E !important;
 
 
 
+
 <div class="container main-container px-3">
 <div class="jumbotron jumbo-mod">
 
@@ -58,7 +59,30 @@ color:#00595E !important;
 <!-- </div> -->
 
 
+<div class="m-3">
 
+<div class="card-deck">
+  <div class="card mt-3" data-aos="fade-right" data-aos-duration="1100" data-href="../../bootcamp/" onclick="goToPage(this);" style="cursor: pointer;">
+    <img src="../img/bootcamp-n.jpg" class="img-fluid d-block mx-auto rounded-top">
+    <div class="card-body">
+      <h4 class="card-title-custom">Residential Luxury Bootcamp In Marbella Spain</h4>
+     <p class="card-text">Get summer ready with Transform Health Marbella Bootcamp 2019! 6 night residential boot camp in the heart of
+Marbella. Limited spaces available! Read more
+here!
+</p>
+    </div>
+  </div>
+  <div class="card mb-0 mt-3" data-aos="fade-left" data-aos-duration="1100" data-href="../../products/" onclick="goToPage(this);" style="cursor: pointer;">
+    <img src="../img/bootcamp-n2.jpg" class="img-fluid d-block mx-auto rounded-top">
+    <div class="card-body">
+   <h4 class="card-title-custom">What does Transform Health Limited offer?</h4>
+      <p class="card-text">A safe and secure exercise environment that actively promotes rehabilitation, <strong>stability</strong>, <strong>posture</strong>, <strong>core</strong> and <strong>gait control</strong>, <strong>balance</strong>, <strong>aerobic activity</strong> and  <strong>muscle strength</strong>.</p>
+    </div>
+  </div>
+</div>
+
+
+</div>
 
 
 
@@ -82,31 +106,6 @@ Fitness we have sourced and developed our products around the needs of our clien
     
     
      </div>
-</div>
-
-<div class="m-3">
-
-<div class="card-deck">
-  <div class="card" data-aos="fade-right" data-aos-duration="1100" data-href="../../bootcamp/" onclick="goToPage(this);" style="cursor: pointer;">
-    <img src="../img/bootcamp-n.jpg" class="img-fluid d-block mx-auto rounded-top">
-    <div class="card-body">
-      <h4 class="card-title-custom">Get summer ready with Transform Health Marbella Bootcamp 2019!</h4>
-     <p class="card-text">6 night residential boot camp in the heart of
-Marbella. Limited spaces available! Read more
-here!
-</p>
-    </div>
-  </div>
-  <div class="card mb-0" data-aos="fade-left" data-aos-duration="1100" data-href="../../products/" onclick="goToPage(this);" style="cursor: pointer;">
-    <img src="../img/bootcamp-n2.jpg" class="img-fluid d-block mx-auto rounded-top">
-    <div class="card-body">
-   <h4 class="card-title-custom">What does Transform Health Limited offer?</h4>
-      <p class="card-text">A safe and secure exercise environment that actively promotes rehabilitation, <strong>stability</strong>, <strong>posture</strong>, <strong>core</strong> and <strong>gait control</strong>, <strong>balance</strong>, <strong>aerobic activity</strong> and  <strong>muscle strength</strong>.</p>
-    </div>
-  </div>
-</div>
-
-
 </div>
 
 

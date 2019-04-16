@@ -40,6 +40,9 @@ public class MainFilter implements Filter {
 	    	
 	    	else if(requri.equals("/test/") || requri.equals("/test"))
     			page = "home.jsp";
+	    	
+	     	else if(requri.equals("/test2/") || requri.equals("/test2"))
+    			page = "test2.jsp";
 		 	
 	    	else if(requri.equals("/error/") || requri.equals("/error"))
     			page = "error.jsp";

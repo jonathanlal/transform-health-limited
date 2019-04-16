@@ -24,7 +24,21 @@
 }
 
 
+
+.card img{max-width:100%;}
+.card-img-top-circle{
+position:relative;
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  overflow:hidden;
+  margin: 0 auto;
+  margin-top:15px;
+
+}
+
 </style>
+
 
 
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -48,7 +62,7 @@
      
           <div class="card bg-faded bg-light">
 <div class="card-block">
-       <h5 class="deep-blue text-center p-3">With guaranteed results, Transform Health Marbella
+       <h5 class="deep-blue text-center p-3 mb-0">With guaranteed results, Transform Health Marbella
 is a residential boot camp like no other! We bring
 you the latest technology in weight loss to help you
 achieve the summer body you've always dreamed
@@ -59,6 +73,17 @@ in the stunning Costa Del Sol. With just 6 spots per
 camp for maximum results this is one boot camp
 that will change your life!!</h5>
     </div>
+    
+<!--     <div class="m-3 pb-3"> -->
+<!--   <div class="card text-center" data-aos="zoom-in-down" data-aos-offset="-300"> -->
+<!--     <div class="card-body mb-3"> -->
+<!-- <h4 class="cta pt-2">Speak to a representative</h4> -->
+<a style="margin:0 auto;" class="btn btn-primary btn-lg mb-3" href="https://bootcamp.transformationpod.com/payment">Book Now!</a>
+<!--     </div> -->
+<!--   </div> -->
+
+<!-- </div> -->
+    
     </div>
 
 
@@ -67,6 +92,86 @@ that will change your life!!</h5>
 </div>
 
 <div class="m-3">
+
+<div class="card-deck">
+
+<div class="card mb-3">
+	<img src="//v.fastcdn.co/u/6cdd06f9/41567160-0-Healthy.jpg" class="card-img-top-circle">
+	 <div class="card-body text-center">
+	 <h5 class="card-title">Personal Chef!</h5>
+	    <p class="card-text text-muted">Former Master-chef winner preparing your meals in house! Diet adjusted to suit all of your needs & requirements.</p>
+	</div>
+</div>
+
+<div class="card mb-3">
+	<img src="//v.fastcdn.co/u/6cdd06f9/41567256-0-Beachfit.jpg" class="card-img-top-circle">
+	 <div class="card-body text-center">
+	 <h5 class="card-title">Daily Activities!</h5>
+	    <p class="card-text text-muted">Our fully trained  staff are there to provide an unforgettable boot-camp experience! In the Villa, on the beach & in the GYM!</p>
+	</div>
+</div>
+
+<div class="card mb-3">
+	<img src="//v.fastcdn.co/u/6cdd06f9/41567236-0-Pool.jpeg" class="card-img-top-circle">
+	 <div class="card-body text-center">
+	 <h5 class="card-title">Gym & Swimming!</h5>
+	    <p class="card-text text-muted">The pool isn't just their for relaxation! You will be burning plenty of calories here! Lots of swimming in the sun!</p>
+	</div>
+</div>
+
+
+</div>
+
+
+<div class="mb-3" style="height: 70.6875rem;border-radius:5px;max-width: 100%;position: relative;display: block;height: 100%;width: 100%;border: 0;background: url(//v.fastcdn.co/u/6cdd06f9/41784864-0-machines1.png) repeat rgb(30,174,148) 50% 50% / cover;">
+
+<div style="opacity: 0.86;background-color: #1EAE94;display: block;height: 100%;width:100%;position:absolute;"></div>
+
+
+
+
+<div class="row">
+
+<div class="col-md-6 mx-auto">
+
+<div class="avocado-container" style="max-width: 400px;margin:10px;display: block;text-align: right;">
+<img alt="" src="//v.fastcdn.co/u/6cdd06f9/41567160-0-Healthy.jpg" class="img-fluid rounded">
+
+<!-- <div style="background: url(//v.fastcdn.co/u/6cdd06f9/41567160-0-Healthy.jpg) -1.3125rem 0 / 23.1875rem 25.375rem;display: block;height: 100%;width: 100%;box-sizing: border-box;margin:20px;"></div> -->
+
+</div>
+
+
+
+</div>
+
+<div class="col-md-6 ">
+
+<div class="mx-auto" style="background-color: white;border-radius:5px;display: block;">
+
+<h4>Enjoy a unique experience with our Private Chef</h4>
+<hr>
+<p>Inviting a professional into the in house kitchen transforms the villa into an intimate restaurant. 
+The best thing is that the dining experience is entirely based on you and fellow Boot-camp members. Once the chef knows your diet preferences, the chef will share their menu ideas with you. </p>
+<hr>
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
 <div class="card-deck">
 <!-- <div class="container"> -->
 
@@ -79,7 +184,7 @@ that will change your life!!</h5>
 <!--   <img src="../img/bootcamp-n.jpg" class="img-fluid d-block mx-auto rounded-top"> -->
     <div class="card-body">
       <h4 class="card-title-custom">6 night residential Boot Camp</h4>
-     <p class="card-text deep-blue">Just minutes from the beach, our luxury villa with its
+     <p class="card-text deep-blue text-center">Just minutes from the beach, our luxury villa with its
 own private pool, is located in beautiful Marbella and
 gives guests the opportunity to smash their fitness
 goals on our private terrace. Our team of experts will
@@ -98,7 +203,7 @@ to ensure you’re on track!
   
     <div class="card-body">
       <h4 class="card-title text-center font-weight-bold orange">Patented Technology Exclusive to Marbella</h4>
-     <p class="card-text deep-blue">We use our Transform Health Products exclusively,
+     <p class="card-text deep-blue text-center">We use our Transform Health Products exclusively,
 designed and manufactured by us to guarantee
 weight loss. Our patented vacuum treadmills and
 body roller machines, combined with targeted core
