@@ -148,8 +148,6 @@ document.body.style.backgroundColor = "#D6FAF1";
 .btn.btn-lg {
     padding: 1rem 1.4rem !important;
 }
-
-
 </style>
 
 <div class="container mt-3" style="max-width:27rem;">

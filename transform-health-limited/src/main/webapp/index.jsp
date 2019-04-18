@@ -5,6 +5,8 @@
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet">
 <style>
+
+
 .card-footer{
 background-color:transparent;
 border: none;
@@ -39,6 +41,28 @@ color:#00595E !important;
 }
 
 
+.card-hover {
+  transition: transform .5s !important;
+}
+.card-hover::after {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  transition: opacity 2s cubic-bezier(0.165, 0.84, 0.44, 1) !important;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.15) !important;
+  content: '' !important;
+  opacity: 0 !important;
+  z-index: -1 !important;
+}
+.card-hover:hover, .card-hover:focus {
+  transform: scale3d(1.006, 1.006, 1) !important;
+}
+.card-hover:hover::after, .card-hover:focus::after {
+  opacity: 1 !important;
+}
+
 </style>
 
 
@@ -59,38 +83,13 @@ color:#00595E !important;
 <!-- </div> -->
 
 
-<div class="m-3">
 
-<div class="card-deck">
-  <div class="card mt-3" data-aos="fade-right" data-aos-duration="1100" data-href="../../bootcamp/" onclick="goToPage(this);" style="cursor: pointer;">
-    <img src="../img/bootcamp-n.jpg" class="img-fluid d-block mx-auto rounded-top">
-    <div class="card-body">
-      <h4 class="card-title-custom">Residential Luxury Bootcamp In Marbella Spain</h4>
-     <p class="card-text">Get summer ready with Transform Health Marbella Bootcamp 2019! 6 night residential boot camp in the heart of
-Marbella. Limited spaces available! Read more
-here!
-</p>
-    </div>
-  </div>
-  <div class="card mb-0 mt-3" data-aos="fade-left" data-aos-duration="1100" data-href="../../products/" onclick="goToPage(this);" style="cursor: pointer;">
-    <img src="../img/bootcamp-n2.jpg" class="img-fluid d-block mx-auto rounded-top">
-    <div class="card-body">
-   <h4 class="card-title-custom">What does Transform Health Limited offer?</h4>
-      <p class="card-text">A safe and secure exercise environment that actively promotes rehabilitation, <strong>stability</strong>, <strong>posture</strong>, <strong>core</strong> and <strong>gait control</strong>, <strong>balance</strong>, <strong>aerobic activity</strong> and  <strong>muscle strength</strong>.</p>
-    </div>
-  </div>
-</div>
-
-
-</div>
-
-
-
-
-<div class="card bg-faded m-3" data-aos="fade-up" data-aos-duration="800">
-     <div class="card-block px-3 pb-3">
+<div class="m-3 pt-1">
+<div class="card bg-faded mt-3" data-aos="fade-up" data-aos-duration="800">
+     <div class="card-block px-3 pb-3 pt-3">
+     <img alt="Transform Health Limited logo" src="../../img/logo-v1.png" style="width: 150px;margin: 0 auto !important;display:block;">
      
-     <h2 data-aos="zoom-in-up" class="title">Meet Transform Health Limited</h2>
+     <h2 data-aos="zoom-in-up" class="title mt-2">Meet Transform Health Limited</h2>
      
      <div class="card bg-faded bg-light">
 <div class="card-block">
@@ -107,6 +106,35 @@ Fitness we have sourced and developed our products around the needs of our clien
     
      </div>
 </div>
+
+
+
+<div class="card-deck">
+  <div class="card d-block card-hover mt-3 mb-0" data-aos="fade-right" data-aos-duration="1100" data-href="https://bootcamp.transformationpod.com/payment" onclick="goToPage(this);" style="cursor: pointer;">
+    <img src="../img/bootcamp-4.jpg" class="img-fluid d-block mx-auto rounded-top">
+    <div class="card-body">
+      <h4 class="card-title-custom">Residential Luxury Bootcamp In Marbella Spain</h4>
+     <p class="card-text text-center">Get summer ready with Transform Health Marbella Bootcamp 2019! 6 night residential boot camp in the heart of
+Marbella. Limited spaces available! <strong>Read more
+here!</strong>
+</p>
+    </div>
+  </div>
+  <div class="card d-block card-hover mb-0 mt-3" data-aos="fade-left" data-aos-duration="1100" data-href="../../products/" onclick="goToPage(this);" style="cursor: pointer;">
+    <img src="../img/products-4.jpg" class="img-fluid d-block mx-auto rounded-top">
+    <div class="card-body">
+   <h4 class="card-title-custom">What does Transform Health Limited offer?</h4>
+      <p class="card-text text-center">A safe and secure exercise environment that actively promotes rehabilitation, <strong>stability</strong>, <strong>posture</strong>, <strong>core</strong> and <strong>gait control</strong>, <strong>balance</strong>, <strong>aerobic activity</strong> and  <strong>muscle strength</strong>. <strong>Click to see more!</strong></p>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+
+
+
 
 
 
@@ -418,6 +446,8 @@ function goToPage(e){
 	var url = e.getAttribute("data-href");
 	window.location.href = url;
 }
+
+
 
 </script>
 

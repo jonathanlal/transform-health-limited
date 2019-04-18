@@ -263,7 +263,7 @@ font-size: 18px !important;
       
             
       <li class="mobile-item">
-        <a href="../../bootcamp/">Bootcamp</a>
+        <a href="https://bootcamp.transformationpod.com/optin">Bootcamp</a>
       </li>
       
       
@@ -304,10 +304,10 @@ font-size: 18px !important;
     
     
     
-       <ul class="mobile-navbar-list">
-        <li class="mobile-item">
-        <a href="../../../wd-admin/login/"><i class="fas fa-sign-in-alt"></i> Log In</a>
-      </li>
+<!--        <ul class="mobile-navbar-list"> -->
+<!--         <li class="mobile-item"> -->
+<!--         <a href="../../../wd-admin/login/"><i class="fas fa-sign-in-alt"></i> Log In</a> -->
+<!--       </li> -->
 <!--          <li class="nav-item"  onmouseover="ChildVisionHover();" onmouseout="ChilVisionUnHover();"> -->
 <!--         <a class="nav-link deep-blue" href="http://childvision.ie" target="_blank"><img src="../../img/Child-Vision-Logo.png" id="child-vision-logo" style="width:100px;"></a> -->
 <!--       </li> -->
