@@ -110,7 +110,7 @@ Fitness we have sourced and developed our products around the needs of our clien
 
 
 <div class="card-deck">
-  <div class="card d-block card-hover mt-3 mb-0" data-aos="fade-right" data-aos-duration="1100" data-href="https://bootcamp.transformationpod.com/payment" onclick="goToPage(this);" style="cursor: pointer;">
+  <div class="card d-block card-hover mt-3 mb-0" data-aos="fade-right" data-aos-duration="1100" data-href="https://bootcamp.transformationpod.com/optin" onclick="goToPage(this);" style="cursor: pointer;">
     <img src="../img/bootcamp-4.jpg" class="img-fluid d-block mx-auto rounded-top">
     <div class="card-body">
       <h4 class="card-title-custom">Residential Luxury Bootcamp In Marbella Spain</h4>
