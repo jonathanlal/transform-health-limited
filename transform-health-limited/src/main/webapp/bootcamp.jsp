@@ -277,122 +277,122 @@ that will change your life!!</h5>
 
 </div>
 
-<div class="mb-3">
+<!-- <div class="mb-3"> -->
 
- <section class="section section-relative " id="page-block-6dfvkthy6io" data-at="section">
+<!--  <section class="section section-relative " id="page-block-6dfvkthy6io" data-at="section"> -->
    
-  <div class="section-holder-border item-block item-absolute" data-at="section-border"></div>
-  <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div>
-  <div class="section-block">
-    <div class="section-inner section-fit section-relative">
-        <div class="widget item-absolute paragraph  " id="element-451" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_7a88b5a4"><span  class="x_f2074b6c">&nbsp;Inviting a professional into the in house kitchen transforms the villa into an intimate restaurant.&nbsp;</span></p><p  class="x_7a88b5a4"><span  class="x_f2074b6c">The best thing is that the dining experience is entirely based on you and fellow Boot-camp members. Once the chef knows your diet preferences, the chef will share their menu ideas with you.&nbsp;</span></p>
-  </div>
-</div>
+<!--   <div class="section-holder-border item-block item-absolute" data-at="section-border"></div> -->
+<!--   <div class="section-holder-overlay item-block item-absolute" data-at="section-overlay"></div> -->
+<!--   <div class="section-block"> -->
+<!--     <div class="section-inner section-fit section-relative"> -->
+<!--         <div class="widget item-absolute paragraph  " id="element-451" data-at="paragraph"> -->
+<!--   <div class="contents"> -->
+<!--     <p  class="x_7a88b5a4"><span  class="x_f2074b6c">&nbsp;Inviting a professional into the in house kitchen transforms the villa into an intimate restaurant.&nbsp;</span></p><p  class="x_7a88b5a4"><span  class="x_f2074b6c">The best thing is that the dining experience is entirely based on you and fellow Boot-camp members. Once the chef knows your diet preferences, the chef will share their menu ideas with you.&nbsp;</span></p> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute  " id="element-452">
-  <div class="contents cropped item-block" data-at="image-cropp">
-  </div>
-</div>
+<!--         <div class="widget item-absolute  " id="element-452"> -->
+<!--   <div class="contents cropped item-block" data-at="image-cropp"> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute headline  " id="element-459" data-at="headline">
-  <div class="contents">
-    <h1>
-      <p  class="x_fc9d998b"><span  class="x_f2074b6c">Enjoy a unique experience with our Private Chef</span></p>
-    </h1>
-  </div>
-</div>
+<!--         <div class="widget item-absolute headline  " id="element-459" data-at="headline"> -->
+<!--   <div class="contents"> -->
+<!--     <h1> -->
+<!--       <p  class="x_fc9d998b"><span  class="x_f2074b6c">Enjoy a unique experience with our Private Chef</span></p> -->
+<!--     </h1> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute " id="element-462">
-  <div
-    class="contents shape  line-horizontal line " 
-    data-at="shape" 
+<!--         <div class="widget item-absolute " id="element-462"> -->
+<!--   <div -->
+<!--     class="contents shape  line-horizontal line "  -->
+<!--     data-at="shape"  -->
     
-  ></div>
-</div>
+<!--   ></div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute " id="element-463">
-  <div
-    class="contents shape  box figure " 
-    data-at="shape" 
+<!--         <div class="widget item-absolute " id="element-463"> -->
+<!--   <div -->
+<!--     class="contents shape  box figure "  -->
+<!--     data-at="shape"  -->
     
-  style="    background: rgb(25,28,41);
-    opacity: 0.61;height: inherit;    display: block;"></div>
-</div>
+<!--   style="    background: rgb(25,28,41); -->
+<!--     opacity: 0.61;height: inherit;    display: block;"></div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute  " id="element-464">
-  <a class="btn btn-primary item-block pt-0" data-at="button" href="https://bootcamp.transformationpod.com/payment">
-      Book Now!
-  </a>
-</div>
+<!--         <div class="widget item-absolute  " id="element-464"> -->
+<!--   <a class="btn btn-primary item-block pt-0" data-at="button" href="https://bootcamp.transformationpod.com/payment"> -->
+<!--       Book Now! -->
+<!--   </a> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute paragraph  " id="element-504" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_1dc74687 text-light">All Allergies catered for</p>
-  </div>
-</div>
+<!--         <div class="widget item-absolute paragraph  " id="element-504" data-at="paragraph"> -->
+<!--   <div class="contents"> -->
+<!--     <p  class="x_1dc74687 text-light">All Allergies catered for</p> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute  " id="element-508">
-  <div class="contents cropped item-block" data-at="image-cropp">
-      <img
-        class="item-content-box item-block img-lazy" 
-        data-at="image"
-        alt=""
-        src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg"
+<!--         <div class="widget item-absolute  " id="element-508"> -->
+<!--   <div class="contents cropped item-block" data-at="image-cropp"> -->
+<!--       <img -->
+<!--         class="item-content-box item-block img-lazy"  -->
+<!--         data-at="image" -->
+<!--         alt="" -->
+<!--         src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg" -->
         
-      >
-  </div>
-</div>
+<!--       > -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute paragraph  " id="element-514" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_1dc74687 text-light">Guaranteed Fat Loss Diet</p>
-  </div>
-</div>
+<!--         <div class="widget item-absolute paragraph  " id="element-514" data-at="paragraph"> -->
+<!--   <div class="contents"> -->
+<!--     <p  class="x_1dc74687 text-light">Guaranteed Fat Loss Diet</p> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute  " id="element-516">
-  <div class="contents cropped item-block" data-at="image-cropp">
-      <img
-        class="item-content-box item-block img-lazy" 
-        data-at="image"
-        alt=""
-        src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg"
+<!--         <div class="widget item-absolute  " id="element-516"> -->
+<!--   <div class="contents cropped item-block" data-at="image-cropp"> -->
+<!--       <img -->
+<!--         class="item-content-box item-block img-lazy"  -->
+<!--         data-at="image" -->
+<!--         alt="" -->
+<!--         src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg" -->
      
-      >
-  </div>
-</div>
+<!--       > -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute " id="element-517">
-  <div
-    class="contents shape  line-horizontal line " 
-    data-at="shape" 
+<!--         <div class="widget item-absolute " id="element-517"> -->
+<!--   <div -->
+<!--     class="contents shape  line-horizontal line "  -->
+<!--     data-at="shape"  -->
     
-  ></div>
-</div>
+<!--   ></div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute paragraph  " id="element-518" data-at="paragraph">
-  <div class="contents">
-    <p  class="x_1dc74687 text-light">Michelin Star Food</p>
-  </div>
-</div>
+<!--         <div class="widget item-absolute paragraph  " id="element-518" data-at="paragraph"> -->
+<!--   <div class="contents"> -->
+<!--     <p  class="x_1dc74687 text-light">Michelin Star Food</p> -->
+<!--   </div> -->
+<!-- </div> -->
 
-        <div class="widget item-absolute  " id="element-519">
-  <div class="contents cropped item-block" data-at="image-cropp">
-      <img
-        class="item-content-box item-block img-lazy" 
-        data-at="image"
-        alt=""
-        src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg"
-      >
-  </div>
-</div>
+<!--         <div class="widget item-absolute  " id="element-519"> -->
+<!--   <div class="contents cropped item-block" data-at="image-cropp"> -->
+<!--       <img -->
+<!--         class="item-content-box item-block img-lazy"  -->
+<!--         data-at="image" -->
+<!--         alt="" -->
+<!--         src="//v.fastcdn.co/u/a1ab1db8/27314877-0-Asset-2.svg" -->
+<!--       > -->
+<!--   </div> -->
+<!-- </div> -->
 
-    </div>
-  </div>
-</section>
+<!--     </div> -->
+<!--   </div> -->
+<!-- </section> -->
 
-</div>
+<!-- </div> -->
 <!-- <div class="mb-3" style="height: 70.6875rem;border-radius:5px;max-width: 100%;position: relative;display: block;height: 100%;width: 100%;border: 0;background: url(//v.fastcdn.co/u/6cdd06f9/41784864-0-machines1.png) repeat rgb(30,174,148) 50% 50% / cover;"> -->
 
 <!-- <div style="opacity: 0.86;background-color: #1EAE94;display: block;height: 100%;width:100%;position:absolute;"></div> -->
