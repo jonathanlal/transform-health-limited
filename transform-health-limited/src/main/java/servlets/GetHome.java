@@ -21,7 +21,7 @@ public class GetHome extends HttpServlet {
 		
 		
 		
-		RequestDispatcher rd = request.getRequestDispatcher("index.jsp");
+		RequestDispatcher rd = request.getRequestDispatcher("home.jsp");
 		rd.forward(request, response);
 	}
 
