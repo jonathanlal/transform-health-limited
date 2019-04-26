@@ -100,6 +100,12 @@ body{
 /*   background-attachment: fixed; */
 
 }
+
+
+.card-footer{
+
+padding: 0 !important;
+}
 </style>
 
 
@@ -110,17 +116,9 @@ body{
 
 
 
-<style>
-
-.card-footer{
-
-padding: 0 !important;
-}
-
-</style>
 
 <div class="container my-3" style="max-width:27rem;">
-<div class="card card-body">
+<div class="card d-block card-body">
     <div class="row">
         <div class="col-sm-12 d-table text-center">
 
@@ -129,7 +127,7 @@ padding: 0 !important;
  <hr>
  			<div class="card-deck">
  			
- 			<div class="card"  style="background-color:#FaFaFa;">
+ 			<div class="card d-block"  style="background-color:#FaFaFa;">
  			<img class="card-img-top" src="../img/bootcamp-n2.jpg" >
  			   <div class="card-footer" style="background-color: inherit;">
  <a type="button" href="../../products/" class="btn btn-primary btn-lg btn-block">View <br>products</a>
@@ -143,7 +141,7 @@ padding: 0 !important;
 
              
              		
- 			<div class="card mb-0"  style="background-color:#FaFaFa;">
+ 			<div class="card d-block mb-0"  style="background-color:#FaFaFa;">
  			<img class="card-img-top" src="../img/bootcamp-n.jpg" >
  			           <div class="card-footer" style="background-color: inherit;">
  		 <a type="button" href="https://bootcamp.transformationpod.com/optin" class="btn btn-primary btn-lg btn-block">Marbella  <br>Bootcamp</a>
