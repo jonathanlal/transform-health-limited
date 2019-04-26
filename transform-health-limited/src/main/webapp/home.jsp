@@ -122,7 +122,7 @@ padding: 0 !important;
     <div class="row">
         <div class="col-sm-12 d-table text-center">
 
- <img src="../../img/stacked-mint.png" style="width: 200px;margin-bottom:15px;" class="mt-4">
+ <img src="../../img/stacked-mint-s.png" style="margin-bottom:15px;" class="mt-4">
 
  <hr>
  			<div class="card-deck">
