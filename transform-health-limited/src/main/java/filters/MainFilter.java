@@ -36,7 +36,7 @@ public class MainFilter implements Filter {
 		 	boolean continueChain = false;
 		 
 	    	if(requri.equals("/"))
-    			page = "home.jsp";
+    			page = "index.jsp";
 	    	
 	    	else if(requri.equals("/test/") || requri.equals("/test"))
     			page = "home.jsp";
